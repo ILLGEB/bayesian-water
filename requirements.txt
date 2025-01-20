@@ -1,8 +1,8 @@
-numpy
+numpy==1.26.4
 matplotlib
 notebook
 jupytext
 ipywidgets
-pymc
+pymc==5.20.0
 mypy
 pandas
